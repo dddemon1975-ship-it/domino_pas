@@ -1,0 +1,10 @@
+default_animation: "K-2"
+material: "/builtins/materials/sprite.material"
+size {
+  x: 350.0
+  y: 350.0
+}
+textures {
+  sampler: "texture_sampler"
+  texture: "/main/betta.atlas"
+}

@@ -1,0 +1,10 @@
+default_animation: "00"
+material: "/builtins/materials/sprite.material"
+size {
+  x: 800.0
+  y: 400.0
+}
+textures {
+  sampler: "texture_sampler"
+  texture: "/main/alfa.atlas"
+}

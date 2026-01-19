@@ -1,0 +1,10 @@
+default_animation: "reklama_betta"
+material: "/builtins/materials/sprite.material"
+size {
+  x: 600.0
+  y: 600.0
+}
+textures {
+  sampler: "texture_sampler"
+  texture: "/main/betta_bb2.atlas"
+}

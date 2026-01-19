@@ -1,0 +1,6 @@
+default_animation: "S-2"
+material: "/builtins/materials/sprite.material"
+textures {
+  sampler: "texture_sampler"
+  texture: "/main/betta.atlas"
+}

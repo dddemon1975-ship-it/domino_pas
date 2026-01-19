@@ -1,0 +1,10 @@
+default_animation: "oko"
+material: "/builtins/materials/sprite.material"
+size {
+  x: 590.0
+  y: 570.0
+}
+textures {
+  sampler: "texture_sampler"
+  texture: "/main/betta_bb2.atlas"
+}
