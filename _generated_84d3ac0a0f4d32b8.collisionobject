@@ -1,0 +1,22 @@
+type: COLLISION_OBJECT_TYPE_TRIGGER
+mass: 0.0
+friction: 0.1
+restitution: 0.5
+group: "dot"
+mask: "default"
+embedded_collision_shape {
+  shapes {
+    shape_type: TYPE_CAPSULE
+    position {
+    }
+    rotation {
+      x: 0.70710677
+      w: 0.70710677
+    }
+    index: 0
+    count: 2
+    id: "dot"
+  }
+  data: 10.0
+  data: 100.0
+}
