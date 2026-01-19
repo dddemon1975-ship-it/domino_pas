@@ -1,0 +1,485 @@
+[ {
+  "path" : "/<AnonymousRoot>",
+  "hexDigest" : null,
+  "children" : [ "/main/GAME.collectionc", "/builtins/render/default.renderc", "/input/game.input_bindingc", "/builtins/input/default.gamepadsc", "/builtins/render/default.display_profilesc", "/builtins/scripts/debugger.luac" ]
+}, {
+  "path" : "/main/GAME.collectionc",
+  "hexDigest" : "9d04f55685403da4a5366667d43d55e328f64f93",
+  "children" : [ "/_generated_3153ba2b446bd0c.goc", "/_generated_801b0f4be740a54c.goc", "/_generated_6732d886cf7318ba.goc", "/_generated_f13f97fad2894b75.goc", "/_generated_71cb72cac9f8e4ce.goc", "/_generated_a4cf32602b6599c5.goc", "/_generated_4a28cd51d2b34e52.goc", "/_generated_49bd34d447834679.goc", "/_generated_2e67bd547ca41f92.goc", "/_generated_2c99f4034b98c885.goc", "/_generated_5375165b262030a0.goc", "/_generated_d65e3c519160298a.goc", "/_generated_9c38b8ee8f4c03d.goc", "/_generated_f706d6eb0bbcee49.goc", "/_generated_f8403daafff0edcb.goc", "/_generated_9a045ba52974cce0.goc", "/_generated_5d09692a92d0a2e5.goc", "/_generated_c071b9667fa9c5e1.goc", "/_generated_f4360f21ded8147a.goc", "/_generated_260bc7a12ef3ca7d.goc", "/_generated_b779f5e1fdbcb1c2.goc", "/_generated_2443d013f1e2e149.goc", "/main/score.goc", "/main/score_global.goc" ]
+}, {
+  "path" : "/_generated_3153ba2b446bd0c.goc",
+  "hexDigest" : "ced128207a592b688f9df634d64dcbc559cffcb3",
+  "children" : [ "/_generated_a7217c2f54d58718.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_8dcb65001305185a.spritec" ]
+}, {
+  "path" : "/_generated_a7217c2f54d58718.collisionobjectc",
+  "hexDigest" : "8072796d1b59f241b1ae8d8fb6bb1e9799c9e3ea",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_24220362ef61f394.spritec",
+  "hexDigest" : "6f6aedf8934ce4ce83351d633a6aef3eebc5ba72",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/alfa.a.texturesetc" ]
+}, {
+  "path" : "/builtins/materials/sprite.materialc",
+  "hexDigest" : "5fcb8d2abe470a02e6bf66ea5032b911c6109f57",
+  "children" : [ "/shader_-7170045909771754498.spc" ]
+}, {
+  "path" : "/shader_-7170045909771754498.spc",
+  "hexDigest" : "cfc3e8f8f6805c6756e9d772023d18f786dce0f9",
+  "children" : [ ]
+}, {
+  "path" : "/main/alfa.a.texturesetc",
+  "hexDigest" : "9015ac9a0911e0040383ffb515572f6cbe79672a",
+  "children" : [ "/main/alfa.texturec" ]
+}, {
+  "path" : "/main/alfa.texturec",
+  "hexDigest" : "b536d85c5a0eceddc5cb0a1fc404854964adc536",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_8dcb65001305185a.spritec",
+  "hexDigest" : "bb8e5934719c04d190f9f0b58dac33563876942e",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/main/betta_bb1.a.texturesetc",
+  "hexDigest" : "bc9b2d7a857df4fb3847d231be3fd1db861d8067",
+  "children" : [ "/main/betta_bb1.texturec" ]
+}, {
+  "path" : "/main/betta_bb1.texturec",
+  "hexDigest" : "b48eca1b05aa0a0497e1d58150613fff8a6af876",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_801b0f4be740a54c.goc",
+  "hexDigest" : "3fa82bb8ccd54fe83b31333ab58837133d58583d",
+  "children" : [ "/_generated_cee2d1e0dc02845e.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_677acd6f31196dea.spritec" ]
+}, {
+  "path" : "/_generated_cee2d1e0dc02845e.collisionobjectc",
+  "hexDigest" : "0efc72598c42c5b30dc778a11a2a4c5470759162",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_677acd6f31196dea.spritec",
+  "hexDigest" : "95229ae63a3fbee0a183b66010debae9ea9a8988",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_6732d886cf7318ba.goc",
+  "hexDigest" : "719f828d4d9e63d80c94696849aee7df7b1abe7a",
+  "children" : [ "/_generated_8eea5544c8d0fcfc.spritec", "/_generated_d14ce6dd7eec44a4.collisionobjectc", "/_generated_e82d64068ecf73c5.spritec" ]
+}, {
+  "path" : "/_generated_8eea5544c8d0fcfc.spritec",
+  "hexDigest" : "df027c81ed60c9b86ddaff5a338ae2ecf53db0d8",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/alfa.a.texturesetc" ]
+}, {
+  "path" : "/_generated_d14ce6dd7eec44a4.collisionobjectc",
+  "hexDigest" : "8731ae9963ca71680acbebe430b8f32c16d3d714",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_e82d64068ecf73c5.spritec",
+  "hexDigest" : "7132761843c133592bd14a995553180ac601abbd",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_f13f97fad2894b75.goc",
+  "hexDigest" : "816fc02897f3e6b5dc765edacdf15099773d2a82",
+  "children" : [ "/_generated_6c2bcc10a1327629.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_e8ccd3bd14738841.spritec" ]
+}, {
+  "path" : "/_generated_6c2bcc10a1327629.collisionobjectc",
+  "hexDigest" : "5eed963e68209bd7a65a375c29baa14e12043ee5",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_e8ccd3bd14738841.spritec",
+  "hexDigest" : "a1ac2dc26797f84d4a3c64682ff55bc856d1518f",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_71cb72cac9f8e4ce.goc",
+  "hexDigest" : "a8899c08bb36a1bc5b9a20d82711662de53c1c19",
+  "children" : [ "/_generated_1a4e33a55bf419b9.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_aaf565f52b01880e.spritec" ]
+}, {
+  "path" : "/_generated_1a4e33a55bf419b9.collisionobjectc",
+  "hexDigest" : "82f96e4cc0759655b0d3a548f27f60f221881f70",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_aaf565f52b01880e.spritec",
+  "hexDigest" : "ba0fa07a452ec876c749cb455315d508cd24e696",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb3.a.texturesetc" ]
+}, {
+  "path" : "/main/betta_bb3.a.texturesetc",
+  "hexDigest" : "430699aec168f8c08f8bb1c38f3ccd8cb8ba9ce6",
+  "children" : [ "/main/betta_bb3.texturec" ]
+}, {
+  "path" : "/main/betta_bb3.texturec",
+  "hexDigest" : "9828cbdd6e404ff6e86f18751bfadbb28f9fe319",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_a4cf32602b6599c5.goc",
+  "hexDigest" : "f838eb766732171194469f458e086f630a0d22fd",
+  "children" : [ "/_generated_8eea5544c8d0fcfc.spritec", "/_generated_66bf9ed95f4b5eba.collisionobjectc", "/_generated_9223401d686251ae.spritec" ]
+}, {
+  "path" : "/_generated_66bf9ed95f4b5eba.collisionobjectc",
+  "hexDigest" : "febc6e5f760ed4ce9cd7d27dc18bfa2e23c8e2bd",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_9223401d686251ae.spritec",
+  "hexDigest" : "b53d247c071c3ccceb9778fa75d47c028c2724c3",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb2.a.texturesetc" ]
+}, {
+  "path" : "/main/betta_bb2.a.texturesetc",
+  "hexDigest" : "e6761b6279e3401c34067994ce55ccd762d74649",
+  "children" : [ "/main/betta_bb2.texturec" ]
+}, {
+  "path" : "/main/betta_bb2.texturec",
+  "hexDigest" : "301d6c537e010765d673954da10b7f71c1496fbf",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_4a28cd51d2b34e52.goc",
+  "hexDigest" : "cc0c6396f29f4fe574bb72c21e969290c2a53db3",
+  "children" : [ "/_generated_72aa76f7460e630f.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_cadeb134604f10d2.spritec" ]
+}, {
+  "path" : "/_generated_72aa76f7460e630f.collisionobjectc",
+  "hexDigest" : "482fffed7b250adf86aaa9ec9ecde300d5a4c541",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_cadeb134604f10d2.spritec",
+  "hexDigest" : "e21e32f9a2f44bfc8d94224cce5070d29e3dfa1d",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/main/betta.a.texturesetc",
+  "hexDigest" : "11272a982efc76ac254c63c1facf7671b3e180ba",
+  "children" : [ "/main/betta.texturec" ]
+}, {
+  "path" : "/main/betta.texturec",
+  "hexDigest" : "aaa5526abb7fa7052a7cec7c3771a2c19c556c6e",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_49bd34d447834679.goc",
+  "hexDigest" : "e569c2078264fb41f87f07cfd41350ae3018d21a",
+  "children" : [ "/main/button_oko.scriptc", "/_generated_4b994bae1b032db7.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_24a5eab0a54000e9.spritec", "/_generated_a74a677aa352267a.spritec" ]
+}, {
+  "path" : "/main/button_oko.scriptc",
+  "hexDigest" : "ba94188873ef38f3e97a04030a667b846467a404",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_4b994bae1b032db7.collisionobjectc",
+  "hexDigest" : "9bc192af512fccd0eeb5b314c3c65bdca7f67aa1",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_24a5eab0a54000e9.spritec",
+  "hexDigest" : "802b3601afbfe2bafaf54af918f4f6a420b263bf",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb2.a.texturesetc" ]
+}, {
+  "path" : "/_generated_a74a677aa352267a.spritec",
+  "hexDigest" : "28457436b993ea1d72ea2ac110f2b35c5d1cdc83",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_2e67bd547ca41f92.goc",
+  "hexDigest" : "1a2406e9b82186616f8a5475c848d2b0b5559cfb",
+  "children" : [ "/_generated_8eea5544c8d0fcfc.spritec", "/_generated_da576b102af99aed.collisionobjectc", "/_generated_7040c023fe7f5392.spritec" ]
+}, {
+  "path" : "/_generated_da576b102af99aed.collisionobjectc",
+  "hexDigest" : "19bd4cf306513a099008a4153a95e0354ae060eb",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_7040c023fe7f5392.spritec",
+  "hexDigest" : "1ecb14e924b51cae34d68118d501ef2c20b076be",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_2c99f4034b98c885.goc",
+  "hexDigest" : "1b1a0e8ccd88141996e021b4c816472ef0bd228c",
+  "children" : [ "/_generated_8eea5544c8d0fcfc.spritec", "/_generated_3d26dc6275ee7ea3.collisionobjectc", "/_generated_5f720bf53153ec8e.spritec" ]
+}, {
+  "path" : "/_generated_3d26dc6275ee7ea3.collisionobjectc",
+  "hexDigest" : "c00ee889eb5e686e6f3811d48222258dabe905f3",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_5f720bf53153ec8e.spritec",
+  "hexDigest" : "83b37de42c9794291e4d6dc354a3771f9560a55b",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_5375165b262030a0.goc",
+  "hexDigest" : "76151f1e65b69793dd55cc152254065a79ace5ac",
+  "children" : [ "/main/button_povtor.scriptc", "/_generated_a625f6bfd68dc9c9.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_7040c023fe7f5392.spritec" ]
+}, {
+  "path" : "/main/button_povtor.scriptc",
+  "hexDigest" : "c692385184749dd148cd4b5f6ffcf2f26a14d454",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_a625f6bfd68dc9c9.collisionobjectc",
+  "hexDigest" : "b6d07b3af907450d287bbb233990ee7246eb028d",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_d65e3c519160298a.goc",
+  "hexDigest" : "93693336a6fe0b8925386d402dabaa4d94672d74",
+  "children" : [ "/_generated_8eea5544c8d0fcfc.spritec", "/_generated_c4e4366408da92e0.collisionobjectc", "/_generated_564f754aedaab2c0.spritec" ]
+}, {
+  "path" : "/_generated_c4e4366408da92e0.collisionobjectc",
+  "hexDigest" : "6a2a8e9959b4598f70e611c59a17792a99178f8c",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_564f754aedaab2c0.spritec",
+  "hexDigest" : "9020bbddc608a5ca090c5c815347a589c33c3a01",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb2.a.texturesetc" ]
+}, {
+  "path" : "/_generated_9c38b8ee8f4c03d.goc",
+  "hexDigest" : "16b38d0d3640156b88476ef936f5f15de63e63c7",
+  "children" : [ "/main/button_reklama_oko.scriptc", "/_generated_76ffaeee17abeb61.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_af09f3e1929e28fb.spritec", "/_generated_39ded02292bb9fb0.spritec" ]
+}, {
+  "path" : "/main/button_reklama_oko.scriptc",
+  "hexDigest" : "31d1fe0ab9b3e171a1fe200458e6ef74772eeba9",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_76ffaeee17abeb61.collisionobjectc",
+  "hexDigest" : "4501ddf273a1241bcbb8f41703cfaa7c7acbdc48",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_af09f3e1929e28fb.spritec",
+  "hexDigest" : "757dd1d3362b886403196ff2456c83fddeada2ad",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb2.a.texturesetc" ]
+}, {
+  "path" : "/_generated_39ded02292bb9fb0.spritec",
+  "hexDigest" : "e4653a6e6748d8dd47ac196e22743beeee01a533",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_f706d6eb0bbcee49.goc",
+  "hexDigest" : "b0dda570eef14c3a460d33ac28566da1a06f9fc2",
+  "children" : [ "/main/button_reklama_rel.scriptc", "/_generated_878ab6288c32560a.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_dc9a1adc2888c541.spritec", "/_generated_39ded02292bb9fb0.spritec" ]
+}, {
+  "path" : "/main/button_reklama_rel.scriptc",
+  "hexDigest" : "242e3323c238c4a071b42ef245d198319ee91359",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_878ab6288c32560a.collisionobjectc",
+  "hexDigest" : "484102254ea4d17bf2e3cdd2d102b0f48905847e",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_dc9a1adc2888c541.spritec",
+  "hexDigest" : "21e9b130e010b05fb5efacc6f8eceb623ab42d18",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb2.a.texturesetc" ]
+}, {
+  "path" : "/_generated_f8403daafff0edcb.goc",
+  "hexDigest" : "f4615697581b8ccfd7b713247a480ef13646b1ed",
+  "children" : [ "/_generated_5155686215718938.collisionobjectc", "/_generated_24220362ef61f394.spritec" ]
+}, {
+  "path" : "/_generated_5155686215718938.collisionobjectc",
+  "hexDigest" : "791d7257bc1b130394fca20e65d5ec23f439ae54",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_9a045ba52974cce0.goc",
+  "hexDigest" : "e1c535f90ceb74fbe45d23cf59754ad1c7e1fbdb",
+  "children" : [ "/main/button_rundom.scriptc", "/_generated_4f7945b6552934bf.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_4a095249f89caed4.spritec", "/_generated_e2c3c4afce11fb1.spritec" ]
+}, {
+  "path" : "/main/button_rundom.scriptc",
+  "hexDigest" : "acf34f428f1e71b06f504b17b263e02921277e54",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_4f7945b6552934bf.collisionobjectc",
+  "hexDigest" : "b21f7729d6483fd9fd1d8ee6340244b8dbbcf22d",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_4a095249f89caed4.spritec",
+  "hexDigest" : "eb5c2837c27cdcf9a022b03a9939d6e6c99539fd",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb3.a.texturesetc" ]
+}, {
+  "path" : "/_generated_e2c3c4afce11fb1.spritec",
+  "hexDigest" : "4484a6ad6ca5c8ca618b8fa38162dba6659fe2c7",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_5d09692a92d0a2e5.goc",
+  "hexDigest" : "50942727669c1d6021c628c5020e62d4fd31b2c1",
+  "children" : [ "/_generated_3d26dc6275ee7ea3.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_53b4d568c313ecd5.spritec" ]
+}, {
+  "path" : "/_generated_53b4d568c313ecd5.spritec",
+  "hexDigest" : "c074993c931d38f2a55665ee59f915761adb0dc7",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_c071b9667fa9c5e1.goc",
+  "hexDigest" : "25a1eeea8bb0a41631ca1aa3924ed352822eca9e",
+  "children" : [ "/_generated_3952b2ccf89c597d.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_8d2e0df5c37691fa.spritec" ]
+}, {
+  "path" : "/_generated_3952b2ccf89c597d.collisionobjectc",
+  "hexDigest" : "e26c059b63676ebe0a44577607c1cdd0a0badf6c",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_8d2e0df5c37691fa.spritec",
+  "hexDigest" : "6679eed29fa32770149ef065d3f5a88bfd26492b",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_f4360f21ded8147a.goc",
+  "hexDigest" : "bc26009069f9607982f1aef40588d0a10b507d08",
+  "children" : [ "/_generated_1fd60c339a6d554e.collisionobjectc", "/_generated_24220362ef61f394.spritec", "/_generated_44e95f15dc69218.spritec" ]
+}, {
+  "path" : "/_generated_1fd60c339a6d554e.collisionobjectc",
+  "hexDigest" : "f9e996f12b19f4d98a2496bf57c49655dd545841",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_44e95f15dc69218.spritec",
+  "hexDigest" : "31dbd6ad5fe08257e1152ce960f63dd366905e53",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_260bc7a12ef3ca7d.goc",
+  "hexDigest" : "1c3562053fd676ece3877e719b457fdaa338f0f4",
+  "children" : [ "/main/dot.scriptc", "/_generated_84d3ac0a0f4d32b8.collisionobjectc" ]
+}, {
+  "path" : "/main/dot.scriptc",
+  "hexDigest" : "8f9bc55c2c253445553397f61166b8a52994c524",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_84d3ac0a0f4d32b8.collisionobjectc",
+  "hexDigest" : "f1eea1cc7656849e7f70b90a5be283e7f950ff06",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_b779f5e1fdbcb1c2.goc",
+  "hexDigest" : "de6b0fe301339148c330c3bb1ee1eb4a637afd7a",
+  "children" : [ "/_generated_8eea5544c8d0fcfc.spritec", "/_generated_97d0f42b9eb6d9df.spritec" ]
+}, {
+  "path" : "/_generated_97d0f42b9eb6d9df.spritec",
+  "hexDigest" : "061d47f61773ceb7ce683f991f938ee5fd8c6686",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta_bb1.a.texturesetc" ]
+}, {
+  "path" : "/_generated_2443d013f1e2e149.goc",
+  "hexDigest" : "c12c54d5bee4c69a9de8b8202798ccb1458688d7",
+  "children" : [ "/main/pole.scriptc", "/_generated_3a83cbd32ea43a36.factoryc", "/_generated_e154c1d245f09ffe.factoryc", "/_generated_39fa4ba7f0a79d7c.factoryc", "/_generated_ef495a6354e5f0f.camerac" ]
+}, {
+  "path" : "/main/pole.scriptc",
+  "hexDigest" : "570a7d46ae18d6044738682f20baf6db088f831c",
+  "children" : [ "/main/bone_shared.luac", "/main/lua.luac" ]
+}, {
+  "path" : "/main/bone_shared.luac",
+  "hexDigest" : "770f1b3649c764abb281a6a2ba2a97b4df20b486",
+  "children" : [ ]
+}, {
+  "path" : "/main/lua.luac",
+  "hexDigest" : "118aaa6d0fb7eba8aef36db68768045a8ac06bd7",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_3a83cbd32ea43a36.factoryc",
+  "hexDigest" : "8a7fb9e884f16baafa4e43cacf3603a3db2e471f",
+  "children" : [ "/main/bone.goc" ]
+}, {
+  "path" : "/main/bone.goc",
+  "hexDigest" : "d93d02e1ad2ed1d77de797cd3d0829fcd49f93a3",
+  "children" : [ "/main/bone.scriptc", "/_generated_afc2a6045375cac2.spritec", "/_generated_cbfc0b5ddb8c43f4.collisionobjectc", "/_generated_c16ed4bb64da0895.spritec", "/_generated_5f064dcd98770d30.spritec", "/_generated_f5593cc7382c6f52.spritec" ]
+}, {
+  "path" : "/main/bone.scriptc",
+  "hexDigest" : "dfe147c03d2a2398b5fd2324d09642724755555c",
+  "children" : [ "/main/bone_shared.luac" ]
+}, {
+  "path" : "/_generated_afc2a6045375cac2.spritec",
+  "hexDigest" : "14861d0eff8b7f6a77eaa9d933ff14720756790c",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/alfa.a.texturesetc" ]
+}, {
+  "path" : "/_generated_cbfc0b5ddb8c43f4.collisionobjectc",
+  "hexDigest" : "02b741061ac32987bc5524d484703045b56100cf",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_c16ed4bb64da0895.spritec",
+  "hexDigest" : "e0b278c81d9a6e30842a3e9a20049cfa810d2094",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/alfa.a.texturesetc" ]
+}, {
+  "path" : "/_generated_5f064dcd98770d30.spritec",
+  "hexDigest" : "1dcdb94b64df1094c57fecc05b1b2a3f1d3b00b3",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_f5593cc7382c6f52.spritec",
+  "hexDigest" : "c1d837e2ab1e4a741479fe4a7a32dcc6bc84014e",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_e154c1d245f09ffe.factoryc",
+  "hexDigest" : "07248509e8d45fdc8999115c81950888f555acac",
+  "children" : [ "/main/ramka.goc" ]
+}, {
+  "path" : "/main/ramka.goc",
+  "hexDigest" : "d697846da491d288e4ce5ff662b1e6e5d442a1fe",
+  "children" : [ "/_generated_c16ed4bb64da0895.spritec" ]
+}, {
+  "path" : "/_generated_39fa4ba7f0a79d7c.factoryc",
+  "hexDigest" : "75ed333f3c1e9165d6418de522aef2d766d1e45f",
+  "children" : [ "/main/bone_up.goc" ]
+}, {
+  "path" : "/main/bone_up.goc",
+  "hexDigest" : "4a77f337d3c906ff66fff2a9495962ecfd848a55",
+  "children" : [ "/main/bone_up.scriptc", "/_generated_afc2a6045375cac2.spritec", "/_generated_cbfc0b5ddb8c43f4.collisionobjectc", "/_generated_c16ed4bb64da0895.spritec", "/_generated_5f064dcd98770d30.spritec", "/_generated_f5593cc7382c6f52.spritec" ]
+}, {
+  "path" : "/main/bone_up.scriptc",
+  "hexDigest" : "4cca5bdb20ed16cc32018aa92f97b0e00d2a62a7",
+  "children" : [ "/main/bone_shared.luac" ]
+}, {
+  "path" : "/_generated_ef495a6354e5f0f.camerac",
+  "hexDigest" : "f9e0d817ee47d3776ba1fb196efff6442fa2a3e9",
+  "children" : [ ]
+}, {
+  "path" : "/main/score.goc",
+  "hexDigest" : "beb59e04deee9a21d51466634a9181b15b0f6c69",
+  "children" : [ "/main/score.scriptc", "/_generated_afc2a6045375cac2.spritec", "/_generated_b46e9255ec904f.spritec", "/_generated_b46e9255ec904f.spritec", "/_generated_832290dcfc8e8d44.spritec", "/_generated_b5acbdbaf033ed5d.spritec", "/_generated_98fecb8515a1b3ff.spritec", "/_generated_efa1bb2d7b0a7a9.spritec", "/_generated_3233da7cc058bc3b.spritec", "/_generated_bbc72953be0e28d9.spritec" ]
+}, {
+  "path" : "/main/score.scriptc",
+  "hexDigest" : "e9545721f4bd5581c5a5f74eaf4fd1d8b1685040",
+  "children" : [ ]
+}, {
+  "path" : "/_generated_b46e9255ec904f.spritec",
+  "hexDigest" : "70fa2b8e09d3c3fa2154694424a5b198b1eaabee",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/alfa.a.texturesetc" ]
+}, {
+  "path" : "/_generated_832290dcfc8e8d44.spritec",
+  "hexDigest" : "c8f4e030508b2029f0d54dc32fe48a5b0649e3e5",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_b5acbdbaf033ed5d.spritec",
+  "hexDigest" : "7a4417ecd6d0420468112654e94324d22ea7c487",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_98fecb8515a1b3ff.spritec",
+  "hexDigest" : "43ac4155c9e3f0b9a40552ed31c00cd5e3536141",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_efa1bb2d7b0a7a9.spritec",
+  "hexDigest" : "1715fa5684c30aedb0c68f727cb7aa5ce215fe60",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_3233da7cc058bc3b.spritec",
+  "hexDigest" : "f3eaa68ed0271c6312dd0d79ae7fec21238351ac",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/_generated_bbc72953be0e28d9.spritec",
+  "hexDigest" : "ffd3c6b799ad42a113ae57f3cdf6f0cc0ba236a1",
+  "children" : [ "/builtins/materials/sprite.materialc", "/main/betta.a.texturesetc" ]
+}, {
+  "path" : "/main/score_global.goc",
+  "hexDigest" : "99d2ced60edd80674353c35a72b5ef643e50f8f4",
+  "children" : [ "/main/score_global.scriptc", "/_generated_afc2a6045375cac2.spritec", "/_generated_b46e9255ec904f.spritec", "/_generated_b46e9255ec904f.spritec", "/_generated_832290dcfc8e8d44.spritec", "/_generated_b5acbdbaf033ed5d.spritec", "/_generated_98fecb8515a1b3ff.spritec", "/_generated_efa1bb2d7b0a7a9.spritec", "/_generated_3233da7cc058bc3b.spritec", "/_generated_bbc72953be0e28d9.spritec", "/_generated_b46e9255ec904f.spritec", "/_generated_b46e9255ec904f.spritec", "/_generated_bbc72953be0e28d9.spritec", "/_generated_bbc72953be0e28d9.spritec", "/_generated_bbc72953be0e28d9.spritec", "/_generated_bbc72953be0e28d9.spritec" ]
+}, {
+  "path" : "/main/score_global.scriptc",
+  "hexDigest" : "f178d742115b26b9f8ce3d45774b88cd7e3eb100",
+  "children" : [ ]
+}, {
+  "path" : "/builtins/render/default.renderc",
+  "hexDigest" : "62fcf66fed9988305fe48996f4d7693b2fac6e49",
+  "children" : [ "/builtins/render/default.render_scriptc" ]
+}, {
+  "path" : "/builtins/render/default.render_scriptc",
+  "hexDigest" : "15e9e792a66624997d0a05af6bcb80738626a4b5",
+  "children" : [ ]
+}, {
+  "path" : "/input/game.input_bindingc",
+  "hexDigest" : "ba576944dea8a162c0ae7a552354399b04bad0f0",
+  "children" : [ ]
+}, {
+  "path" : "/builtins/input/default.gamepadsc",
+  "hexDigest" : "0ce57d647ce8e3f153cdc37100c7a855b60d15b2",
+  "children" : [ ]
+}, {
+  "path" : "/builtins/render/default.display_profilesc",
+  "hexDigest" : "4187e11a10b0dd0d7f1b34d3ae3c0e9632dc69fd",
+  "children" : [ ]
+}, {
+  "path" : "/builtins/scripts/debugger.luac",
+  "hexDigest" : "da795e4cf4bca06179060d0ad617ea216073df35",
+  "children" : [ "/builtins/scripts/edn.luac", "/builtins/scripts/mobdebug.luac" ]
+}, {
+  "path" : "/builtins/scripts/edn.luac",
+  "hexDigest" : "a257a3d28b4ccbdd0cee82951b03bb85d67fac4a",
+  "children" : [ ]
+}, {
+  "path" : "/builtins/scripts/mobdebug.luac",
+  "hexDigest" : "8db838bbd616a8f07ee8c5bedffba7231c4279a1",
+  "children" : [ "/builtins/scripts/socket.luac", "/builtins/scripts/edn.luac" ]
+}, {
+  "path" : "/builtins/scripts/socket.luac",
+  "hexDigest" : "57b9b27c9818923274f4f4ff535b4981e635ef05",
+  "children" : [ ]
+} ]
